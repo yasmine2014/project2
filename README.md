@@ -1,7 +1,5 @@
 ## Rayoïd for Atari ST
 
-Written end of 1992.
+Written end of 2017.
 
-I tried it a few years ago in some Atari ST emulator, and it worked!
-
-This was a time where every byte and CPU cycle mattered. Heh.
+test project with Egit ans eclipse
