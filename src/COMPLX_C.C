@@ -1,6 +1,6 @@
 /*************************************************************************
 
-	Deux joueurs - Modem - Mode complexe
+	Deux joueurs - Modem - Mode complexe doukkali
 
 */
 
